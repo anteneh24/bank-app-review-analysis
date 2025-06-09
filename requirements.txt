@@ -1,0 +1,13 @@
+# requirements.txt
+
+pandas
+google-play-scraper
+matplotlib
+seaborn
+wordcloud
+transformers
+torch
+scikit-learn
+spacy
+nltk
+cx_Oracle
